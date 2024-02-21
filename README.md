@@ -12,6 +12,8 @@ Puedes encontrar más sobre mi, y mis datos de contacto, en mi [sitio web person
 
 ## Aplicaciones web interactivas de datos sociales
 
+**[Portafolio de aplicaciones web de visualización de datos sociales](https://bastianolea.github.io/shiny_apps/)**
+
 [Visualizador de datos de delincuencia en Chile](https://bastianoleah.shinyapps.io/delincuencia_chile/)
 
 [Visualizador de casos de corrupción en Chile](https://bastianoleah.shinyapps.io/corrupcion_chile/)
