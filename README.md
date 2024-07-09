@@ -1,5 +1,7 @@
 ### Bastián Olea Herrera
 
+[![Linkedin Badge](https://img.shields.io/badge/-bastianolea-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bastianolea/)](https://www.linkedin.com/in/bastianolea/)
+
 Hola! 🌸
 
 En este repositorio comparto proyectos personales de ciencia de datos 👩🏻‍🔬 particularmente acerca de descargar, procesar y visualizar **datos sociales** en el [lenguaje de programación estadística R](https://www.r-project.org) 📊
@@ -13,6 +15,8 @@ Puedes encontrar más sobre mi, y mis datos de contacto, en mi [sitio web person
 ## Aplicaciones web interactivas de datos sociales
 
 **[Portafolio de aplicaciones web de visualización de datos sociales](https://bastianolea.github.io/shiny_apps/)**
+
+[Dashboard de indicadores económicos principales de Chile](https://bastianoleah.shinyapps.io/economia_chile)
 
 [Mapas comunales para comparación interactiva de datos sociales de Chile](https://bastianoleah.shinyapps.io/comparador_mapas_chile)
 
