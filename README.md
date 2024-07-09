@@ -1,6 +1,6 @@
 ### Bastián Olea Herrera
 
-[![Linkedin Badge](https://img.shields.io/badge/-bastianolea-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bastianolea/)](https://www.linkedin.com/in/bastianolea/)
+[![Linkedin Badge](https://img.shields.io/badge/-bastianolea-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bastianolea/)](https://www.linkedin.com/in/bastianolea/) [![Twitter Badge](https://img.shields.io/badge/-bastianolea-grey?style=flat&logo=X&logoColor=white&link=https://x.com/bastimapache)](https://x.com/bastimapache)
 
 Hola! 🌸
 
