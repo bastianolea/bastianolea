@@ -33,3 +33,5 @@ Puedes encontrar más sobre mi, y mis datos de contacto, en mi [sitio web person
 [Visualizador y comparador de ingresos de las comunas de Chile](https://bastianoleah.shinyapps.io/casen_comparador_ingresos/)
 
 [Visualizador de proyecciones de población del Censo de Chile, desde 2002 hasta 2035](https://bastianoleah.shinyapps.io/censo_proyecciones/)
+
+[![](pantallazo_2.png)](https://bastianolea.github.io/shiny_apps/)
