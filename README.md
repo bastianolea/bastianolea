@@ -10,11 +10,13 @@ Varios de estos repositorios son **aplicaciones web** desarroladas en R y [Shiny
 
 Cualquier duda o consulta que tengas sobre usar R para datos sociales es bienvenida ☺️
 
-Puedes encontrar más sobre mi, y mis datos de contacto, en mi [sitio web personal.](https://bastian.olea.biz)
+Puedes encontrar más sobre mi, y mis datos de contacto, en mi [sitio web personal.](https://bastian.olea.biz) Cualquier consulta puedes [escribirme a mi correo](mailto:bastianolea@gmail.com)
 
 ## Aplicaciones web interactivas de datos sociales
 
 **[Portafolio de aplicaciones web de visualización de datos sociales](https://bastianolea.github.io/shiny_apps/)**
+
+[Análisis de texto de prensa escrita en Chile](https://bastianoleah.shinyapps.io/prensa_chile/)
 
 [Dashboard de indicadores económicos principales de Chile](https://bastianoleah.shinyapps.io/economia_chile)
 
