@@ -2,7 +2,7 @@
 
 Hola! 🌸
 
-En este repositorio comparto proyectos personales de ciencia de datos 👩🏻‍🔬 particularmente acerca de descargar, procesar y visualizar **datos sociales** en el [lenguaje de programación estadística R](https://www.r-project.org) 📊
+En este repositorio comparto proyectos personales de ciencia de datos 👩🏻‍🔬 particularmente acerca de obtener, procesar y visualizar **datos sociales** en el [lenguaje de programación estadística R](https://www.r-project.org) 📊
 
 Varios de estos repositorios son **aplicaciones web** desarroladas en R y [Shiny](https://shiny.posit.co), que permiten visualizar datos de forma interactiva. Puedes encontrarlas y explorarlas todas en mi [portafolio de visualizadores de datos sociales de Chile](https://bastianolea.github.io/shiny_apps/) 👩🏻‍💻
 
@@ -16,4 +16,4 @@ Puedes encontrar más sobre mi, y mis datos de contacto, en mi [sitio web person
 
 - [Portafolio de aplicaciones web de visualización de datos sociales](https://bastianolea.github.io/shiny_apps/)
 
-[![](pantallazo_2.png)](https://bastianolea.github.io/shiny_apps/)
+[![](shiny_apps.jpg)](https://bastianolea.github.io/shiny_apps/)
